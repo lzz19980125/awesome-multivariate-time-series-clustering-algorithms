@@ -82,7 +82,7 @@ class Mc2PCA:
 
             res = np.array([cpca.reconstitution_error(X, self.ncp) for cpca in CPCA_by_cluster])
             # Update index cluster
-            index_cluster = res.argmin(axis=0)     #就在这里可以计算其与质心的距离,但是还是要计算一下每个维度的距离，他这里直接计算范数了
+            index_cluster = res.argmin(axis=0)
 
             # new total error
             new_error = res.min(axis=0).sum()
@@ -152,4 +152,3 @@ print("clustering precision is: "+ str(m.precision(gt_nb_cluster)))
 
 ncp_list = np.arange(1,8)
 print("search the best p: "+ str(search_ncp(res,ground_truth_cluster_number,ncp_list,gt_nb_cluster)))
-print()
