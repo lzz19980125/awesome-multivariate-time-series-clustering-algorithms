@@ -1,5 +1,7 @@
 #  Awesome-multivariate-time-series-clustering-algorithms
 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green)![Stars](https://img.shields.io/github/stars/lzz19980125/awesome-time-series-segmentation-papers)
+
 This repo collects effective multivariate time series clustering algorithm codes, which is continuously updating.
 
 **MC2PCA** (*Neurocomputing* *2019*) [[paper]](https://www.sciencedirect.com/science/article/pii/S092523121930400X)
