@@ -1,6 +1,6 @@
 #  Awesome-multivariate-time-series-clustering-algorithms
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green)![Stars](https://img.shields.io/github/stars/lzz19980125/awesome-time-series-segmentation-papers)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green)![Stars](https://img.shields.io/github/stars/lzz19980125/awesome-multivariate-time-series-clustering-algorithms)
 
 This repo collects effective multivariate time series clustering algorithm codes, which is continuously updating.
 
